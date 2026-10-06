@@ -5,7 +5,7 @@ Each day it surfaces F&B brands that match the ICP (5+ outlets, any Indian city)
 and haven't been contacted yet. One click logs a brand as processed, and it never
 comes back.
 
-**[Live demo](https://sdr-outbound-radar.vercel.app)** ·
+**[Live demo](https://sdr-outbound-radar.vercel.app)** · [Architecture](ARCHITECTURE.md) ·
 Next.js · Supabase · Google Places API · built with Claude Code
 
 > This repo is a public overview. The source code is private.

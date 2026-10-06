@@ -7,8 +7,8 @@ brand to see outlets, POS, decision-makers and menu, reaches out over WhatsApp
 or LinkedIn, and logs the brand as processed, after which it never resurfaces.
 
 This document describes the system as it is built today, with planned work
-marked as such. Setup steps are in the [README](README.md); the visual language
-is in [DESIGN.md](DESIGN.md).
+marked as such. The source code is private; this repo is a public
+overview — see the [README](README.md) for screenshots and the live demo.
 
 ## Contents
 
